@@ -5,7 +5,7 @@ import datetime
 from telebot import types
 from dotenv import load_dotenv
 from cake_app.models import Client, ReadyCake, Order, CustomizedCake
-from datetime import datetime, time
+from datetime import time
 from dvmn_cake_project.settings import STATIC_DIR, MEDIA_ROOT
 
 
